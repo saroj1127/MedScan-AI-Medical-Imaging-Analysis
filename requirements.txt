@@ -1,0 +1,6 @@
+google-genai
+streamlit
+mysql-connector-python
+Pillow
+reportlab
+biopython
